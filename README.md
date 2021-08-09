@@ -12,8 +12,12 @@
 ==================================================================================
 
 Attached are the files associated with the Cado Security SANS Presentation "buff your
-cloud game". Where James Campbell and Allan Carchrie presented the value of forensically
-analysing multiple data sources when it comes to cloud investigations. This investigation
+cloud game".
+
+Where James Campbell and Allan Carchrie presented the value of forensically
+analysing multiple data sources when it comes to cloud investigations.
+
+This investigation
 is based on a AWS Kubernetes that has been compromised, and the associated log sources
 that can be made available through AWS Cloud. For the full presentation, and outline
 please refer to the blog and presentation at cadosecurity.com
