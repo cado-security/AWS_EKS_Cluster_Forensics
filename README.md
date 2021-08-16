@@ -59,3 +59,6 @@ Have Fun! From The Cado Security Team! @CadoSecurity
 
 You can download these files from:
 - https://github.com/cado-security/AWS_EKS_Cluster_Forensics/releases/download/v1.0/CadoSecurity-CloudForensics-SANS_DFIR2021-Files.7z
+
+We will be presenting on how to solve/analyse the disk and memory of this compromised system at:
+- https://www.brighttalk.com/webcast/19071/502974?utm_source=github&utm_medium=social&utm_campaign=memory
