@@ -11,7 +11,7 @@
 ======Cado Security Presentation - Evidence Files SANS DFIR Conference 2021=======
 ==================================================================================
 
-Attached are the files associated with the Cado Security SANS Presentation "bluff
+Attached are the files associated with the Cado Security SANS Presentation "buff
 your cloud game".
 
 Where James Campbell and Allan Carchrie presented the value of forensically
